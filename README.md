@@ -1,2 +1,2 @@
-# scat_backend
-scat_backend
+# scat
+Smart Cotract Assesment Toolkit
